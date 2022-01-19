@@ -485,6 +485,9 @@ section {
   justify-content: center;
   width: 17em;
   height: 13em;
+  background: #149DDD;
+  padding: 10px;
+  border-radius: 5px;
 }
 .portfolio .portfolio-wrap::before {
   content: "";
